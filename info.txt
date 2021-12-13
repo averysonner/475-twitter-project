@@ -1,0 +1,12 @@
+Tweet Data Dictionary 
+https://developer.twitter.com/en/docs/twitter-api/v1/data-dictionary/object-model/tweet
+
+popularity score:
+reply_count
+retweet_count
+favorite_count
+
+ln((1.5*rtw + favorite + .5*reply)) 
+
+find the min and max
+partition 10 segments between

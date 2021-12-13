@@ -1,0 +1,62 @@
+/home/code/.local/lib/python3.8/site-packages/sklearn/neural_network/_multilayer_perceptron.py:692: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (200) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/home/code/.local/lib/python3.8/site-packages/sklearn/neural_network/_multilayer_perceptron.py:692: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (160) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/home/code/.local/lib/python3.8/site-packages/sklearn/neural_network/_multilayer_perceptron.py:692: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (200) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/home/code/.local/lib/python3.8/site-packages/sklearn/neural_network/_multilayer_perceptron.py:692: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (160) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/home/code/.local/lib/python3.8/site-packages/sklearn/neural_network/_multilayer_perceptron.py:692: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (200) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/home/code/.local/lib/python3.8/site-packages/sklearn/neural_network/_multilayer_perceptron.py:692: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (160) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/home/code/.local/lib/python3.8/site-packages/sklearn/neural_network/_multilayer_perceptron.py:692: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (200) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/home/code/.local/lib/python3.8/site-packages/sklearn/neural_network/_multilayer_perceptron.py:692: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (160) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/home/code/.local/lib/python3.8/site-packages/sklearn/neural_network/_multilayer_perceptron.py:692: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (200) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/home/code/.local/lib/python3.8/site-packages/sklearn/neural_network/_multilayer_perceptron.py:692: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (160) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/home/code/.local/lib/python3.8/site-packages/sklearn/neural_network/_multilayer_perceptron.py:692: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (180) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/home/code/.local/lib/python3.8/site-packages/sklearn/neural_network/_multilayer_perceptron.py:692: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (200) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/home/code/.local/lib/python3.8/site-packages/sklearn/neural_network/_multilayer_perceptron.py:692: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (160) reached and the optimization hasn't converged yet.
+  warnings.warn(
+#1
+Network error: 1.7727909856460458, 1.3214545454545454
+Network error: 1.8706343114763846, 1.4018181818181819
+Network error: 1.8615405806302836, 1.3974545454545455
+Network error: 1.8635905389783716, 1.395878787878788
+Network error: 1.8529583226436976, 1.388121212121212
+#2
+Network error: 1.723667689269107, 1.2803636363636364
+Network error: 1.8585755379599265, 1.3983030303030304
+Network error: 1.8892679358241735, 1.4115151515151516
+Network error: 1.8798452547532156, 1.4101818181818182
+Network error: 1.87752254556128, 1.4075151515151516
+#3
+Network error: 1.7604407161706739, 1.3054545454545454
+Network error: 1.866904746722053, 1.3992727272727272
+Network error: 1.879813014556759, 1.4132121212121211
+Network error: 1.9052081728299881, 1.416969696969697
+Network error: 1.854658344751824, 1.3835151515151516
+#4
+Network error: 1.7546475084152597, 1.304
+Network error: 1.8836778982199756, 1.4090909090909092
+Network error: 1.8772642893639702, 1.3997575757575758
+Network error: 1.88023209399072, 1.4203636363636363
+Network error: 1.8598142624759846, 1.3815757575757577
+#5
+Network error: 1.721591934193114, 1.2756363636363637
+Network error: 1.8551484462370544, 1.388
+Network error: 1.8910635135079974, 1.4064242424242424
+Network error: 1.8862179571349071, 1.408969696969697
+Network error: 1.849586358343318, 1.373212121212121
+#6
+Network error: 1.7381983009234974, 1.293090909090909
+Network error: 1.8778775898402544, 1.3989090909090909
+Network error: 1.8610195967248544, 1.404969696969697
+Network error: 1.8689163932205435, 1.391030303030303
+Network error: 1.84502607356135, 1.3866666666666667

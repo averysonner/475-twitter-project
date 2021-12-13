@@ -1,0 +1,74 @@
+/home/code/.local/lib/python3.8/site-packages/sklearn/neural_network/_multilayer_perceptron.py:692: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (200) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/home/code/.local/lib/python3.8/site-packages/sklearn/neural_network/_multilayer_perceptron.py:692: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (160) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/home/code/.local/lib/python3.8/site-packages/sklearn/neural_network/_multilayer_perceptron.py:692: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (180) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/home/code/.local/lib/python3.8/site-packages/sklearn/neural_network/_multilayer_perceptron.py:692: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (200) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/home/code/.local/lib/python3.8/site-packages/sklearn/neural_network/_multilayer_perceptron.py:692: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (160) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/home/code/.local/lib/python3.8/site-packages/sklearn/neural_network/_multilayer_perceptron.py:692: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (180) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/home/code/.local/lib/python3.8/site-packages/sklearn/neural_network/_multilayer_perceptron.py:692: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (200) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/home/code/.local/lib/python3.8/site-packages/sklearn/neural_network/_multilayer_perceptron.py:692: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (160) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/home/code/.local/lib/python3.8/site-packages/sklearn/neural_network/_multilayer_perceptron.py:692: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (180) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/home/code/.local/lib/python3.8/site-packages/sklearn/neural_network/_multilayer_perceptron.py:692: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (200) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/home/code/.local/lib/python3.8/site-packages/sklearn/neural_network/_multilayer_perceptron.py:692: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (160) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/home/code/.local/lib/python3.8/site-packages/sklearn/neural_network/_multilayer_perceptron.py:692: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (180) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/home/code/.local/lib/python3.8/site-packages/sklearn/neural_network/_multilayer_perceptron.py:692: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (200) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/home/code/.local/lib/python3.8/site-packages/sklearn/neural_network/_multilayer_perceptron.py:692: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (160) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/home/code/.local/lib/python3.8/site-packages/sklearn/neural_network/_multilayer_perceptron.py:692: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (180) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/home/code/.local/lib/python3.8/site-packages/sklearn/neural_network/_multilayer_perceptron.py:692: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (200) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/home/code/.local/lib/python3.8/site-packages/sklearn/neural_network/_multilayer_perceptron.py:692: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (220) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/home/code/.local/lib/python3.8/site-packages/sklearn/neural_network/_multilayer_perceptron.py:692: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (160) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/home/code/.local/lib/python3.8/site-packages/sklearn/neural_network/_multilayer_perceptron.py:692: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (180) reached and the optimization hasn't converged yet.
+  warnings.warn(
+#1
+Network error: 9.349982984914027, 7.319151515151515
+Network error: 9.372254345415062, 7.426060606060606
+Network error: 9.403532540616013, 7.423757575757576
+Network error: 9.37421350236268, 7.431757575757576
+Network error: 9.463050952696669, 7.515878787878788
+#2
+Network error: 9.405246762667456, 7.381333333333333
+Network error: 9.398052667409027, 7.465696969696969
+Network error: 9.306700095450948, 7.385575757575758
+Network error: 9.405047000994152, 7.467515151515151
+Network error: 9.402694649230435, 7.486545454545454
+#3
+Network error: 9.346080040381214, 7.340727272727273
+Network error: 9.302655209099925, 7.340363636363636
+Network error: 9.33921676035896, 7.374181818181818
+Network error: 9.311407145555554, 7.3803636363636365
+Network error: 9.341941917389489, 7.416848484848485
+#4
+Network error: 9.390640085325453, 7.34969696969697
+Network error: 9.40607154013735, 7.445333333333333
+Network error: 9.425497334358543, 7.513454545454546
+Network error: 9.410336032386104, 7.472484848484848
+Network error: 9.45713775650194, 7.483757575757576
+#5
+Network error: 9.475640219835153, 7.440363636363636
+Network error: 9.351123737365214, 7.432848484848485
+Network error: 9.404795681894521, 7.4351515151515155
+Network error: 9.467155343767752, 7.51769696969697
+Network error: 9.3106325664736, 7.354060606060606
+#6
+Network error: 9.316274453716447, 7.276848484848485
+Network error: 9.403210283534216, 7.4535757575757575
+Network error: 9.403654995411479, 7.483515151515151
+Network error: 9.342227364028993, 7.386787878787879
+Network error: 9.341020643734103, 7.39769696969697
